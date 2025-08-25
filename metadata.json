@@ -1,0 +1,5 @@
+{
+  "name": "Instagram Content Script Generator",
+  "description": "An AI-powered tool to generate engaging video scripts for Instagram Reels and Stories based on your keywords. Streamline your content creation process and never run out of ideas.",
+  "requestFramePermissions": []
+}
